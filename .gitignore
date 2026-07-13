@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# Dataset
+Cancer_Dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
